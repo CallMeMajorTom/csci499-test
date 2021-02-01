@@ -1,6 +1,0 @@
-/home/vagrant/remote/newfolder/csci499-test/mergeSort/build/CMakeFiles/rebuild_cache.dir
-/home/vagrant/remote/newfolder/csci499-test/mergeSort/build/CMakeFiles/edit_cache.dir
-/home/vagrant/remote/newfolder/csci499-test/mergeSort/build/src/CMakeFiles/edit_cache.dir
-/home/vagrant/remote/newfolder/csci499-test/mergeSort/build/src/CMakeFiles/rebuild_cache.dir
-/home/vagrant/remote/newfolder/csci499-test/mergeSort/build/src/CMakeFiles/mergeSort.dir
-/home/vagrant/remote/newfolder/csci499-test/mergeSort/build/src/CMakeFiles/mergeSortTest.dir

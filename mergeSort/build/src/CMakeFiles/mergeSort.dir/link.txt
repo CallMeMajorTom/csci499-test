@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/mergeSort.dir/mergeSort.o  -o mergeSort   -L/usr/local/lib  /usr/local/lib/libgflags.a -lglog -lpthread 

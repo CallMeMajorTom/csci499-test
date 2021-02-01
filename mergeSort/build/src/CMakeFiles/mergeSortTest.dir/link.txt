@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/mergeSortTest.dir/mergeSortTest.o  -o mergeSortTest  /usr/local/lib/libbenchmark.a -pthread -lrt 
